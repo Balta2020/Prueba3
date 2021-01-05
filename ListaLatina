@@ -1,0 +1,27 @@
+
+
+#EXTM3U
+#EXTINF:-1,Sportv 1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8?
+#EXTINF:-1,Warner
+http://38.18.238.42:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1035883_343241186_63667.ts?nimblesessionid=1331904685
+#EXTINF:-1,Tnt
+http://38.18.238.42:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1064254_343301279_6367.ts?nimblesessionid=1331909904
+#EXTINF:-1,SyFy
+http://23.237.29.98:2095/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?nimblesessionid=42604620
+#EXTINF:-1,Mega Tv
+http://38.18.238.42:2095/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1064959_92139358_8681.ts?nimblesessionid=1331921777
+#EXTINF:-1,Beinsport
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts
+#EXTINF:-1,DMAX
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts
+#EXTINF:-1,La Liga
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts
+#EXTINF:-1,Paramount
+http://23.237.29.98:2095/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_51391_345239282_69630.ts?nimblesessionid=42640418
+#EXTINF:-1,HBO+
+http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1035880_319380082_65956.ts?nimblesessionid=1332018485
+#EXTINF:-1,ClaroSport
+http://38.18.238.42:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1032679_345414190_58027.ts?nimblesessionid=1332027335
+#EXTINF:-1,A&E
+http://23.237.29.98:2095/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_51499_345493469_74020.ts?nimblesessionid=42650439
